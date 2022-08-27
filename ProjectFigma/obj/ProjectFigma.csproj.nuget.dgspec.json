@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\ProjectFigma\\bug-cors\\ProjectFigma\\ProjectFigma.csproj": {}
+    "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\New folder (5)\\ProjectFigma\\ProjectFigma.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\ProjectFigma\\bug-cors\\ProjectFigma\\ProjectFigma.csproj": {
+    "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\New folder (5)\\ProjectFigma\\ProjectFigma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\ProjectFigma\\bug-cors\\ProjectFigma\\ProjectFigma.csproj",
+        "projectUniqueName": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\New folder (5)\\ProjectFigma\\ProjectFigma.csproj",
         "projectName": "ProjectFigma",
-        "projectPath": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\ProjectFigma\\bug-cors\\ProjectFigma\\ProjectFigma.csproj",
+        "projectPath": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\New folder (5)\\ProjectFigma\\ProjectFigma.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\ProjectFigma\\bug-cors\\ProjectFigma\\obj\\",
+        "outputPath": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\New folder (5)\\ProjectFigma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
